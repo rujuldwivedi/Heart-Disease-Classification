@@ -77,8 +77,8 @@ We'll employ various tools for each step of the machine learning modeling proces
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/rujuldwivedi/MSMLProject2.git`
-2. Install the required dependencies: `pip install -r data.txt`
+1. Clone the repository: `git clone https://github.com/rujuldwivedi/Heart-Disease-Classification.git`
+2. Install the required dependencies: `pip install -r heart-Disease.csv`
 3. Run the Jupyter notebook: `jupyter notebook Heart-Disease-Classification.ipynb`
 
 ## Contributions
