@@ -1,6 +1,6 @@
 # Heart Disease Prediction (❤️🔍)
 
-Welcome to Heart-Disease-Classification - a machine learning project dedicated to predicting heart disease using foundational machine learning and data science concepts. This notebook serves as an end-to-end example of a data science and machine learning proof of concept, focusing on the classification problem of heart disease.
+Welcome to Heart Disease Classification - a machine learning project dedicated to predicting heart disease using foundational machine learning and data science concepts. This notebook serves as an end-to-end example of a data science and machine learning proof of concept, focusing on the classification problem of heart disease.
 
 ## Problem Definition
 
